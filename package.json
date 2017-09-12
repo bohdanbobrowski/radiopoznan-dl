@@ -14,10 +14,10 @@
    "bin": {
       "radiopoznan-dl": "cli.js"
    },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bohdanbobrowski/radiopoznan-dl.git"
-  },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/bohdanbobrowski/radiopoznan-dl.git"
+   },
    "dependencies": {
       "download-file": "^0.1.5",
       "meow": "^3.7.0",
