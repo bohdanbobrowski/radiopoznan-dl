@@ -1,0 +1,26 @@
+{
+   "name": "radiopoznan-dl",
+   "version": "1.0.0",
+   "description": "Pobieranie audycji radia Poznań.",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": {
+      "name": "Bohdan Bobrowski",
+      "email": "bohdanbobrowski@gmail.com",
+      "url": "https://github.com/bohdanbobrowski"
+   },
+   "license": "MIT",
+   "bin": {
+      "radiopoznan-dl": "cli.js"
+   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bohdanbobrowski/radiopoznan-dl.git"
+  },
+   "dependencies": {
+      "download-file": "^0.1.5",
+      "meow": "^3.7.0",
+      "scrape-it": "^3.3.3"
+   }
+}
